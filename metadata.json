@@ -1,0 +1,6 @@
+{
+  "name": "VaultBlock",
+  "description": "Companion app for Obsidian that renders Dataview and DataviewJS queries on mobile with offline access, local markdown vault synchronization, and a fast block editor for rapid metadata editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

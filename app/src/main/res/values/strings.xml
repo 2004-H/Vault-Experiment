@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VaultBlock</string>
+    <string name="nav_blocks">Blocks</string>
+    <string name="nav_query_lab">Query Lab</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_vault">Vault</string>
+    <string name="action_sync_now">Sync Vault</string>
+    <string name="action_link_folder">Link Obsidian Folder</string>
+    <string name="action_new_block_page">New Block Page</string>
+    <string name="action_add_property">Add Property</string>
+    <string name="action_add_block">Add Block</string>
+    <string name="action_run_query">Run Query</string>
+    <string name="action_save_as_page">Save as Page</string>
+    <string name="action_view_markdown">Raw Markdown</string>
+    <string name="label_offline_ready">Offline Cached</string>
+    <string name="label_properties">Metadata Properties</string>
+    <string name="label_blocks">Page Blocks</string>
+    <string name="label_backlinks">Backlinks</string>
+    <string name="empty_search_title">No matching block pages</string>
+    <string name="empty_search_subtitle">Try clearing your search or creating a new Dataview block page.</string>
+</resources>
